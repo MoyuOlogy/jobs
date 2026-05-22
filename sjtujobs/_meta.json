@@ -1,0 +1,9 @@
+{
+  "name": "sjtujobs",
+  "version": "1.0.0",
+  "description": "上海交通大学就业信息网爬虫技能 - 抓取招聘信息",
+  "scripts": {
+    "daily": "python3 scripts/sjtu_recruit.py",
+    "interactive": "python3 sjtujobs.py"
+  }
+}
