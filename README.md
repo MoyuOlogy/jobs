@@ -332,7 +332,7 @@ python3 skills/sjtujobs/sjtujobs.py --today
 
 ## 与飞书多维表格集成
 
-本项目与 `jobs` 技能配合，可将抓取结果自动写入飞书多维表格「生涯信息表」。
+本项目与 [`jobs`](./jobs/SKILL.md) 技能配合，可将抓取结果自动写入飞书多维表格「生涯信息表」。
 
 ### 目标表格
 
