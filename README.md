@@ -347,10 +347,9 @@ python3 skills/sjtujobs/sjtujobs.py --today
 
 ### 目标表格
 
-- **表格名称**: 生涯信息表 - by xiaoxin
-- **知识库链接**: https://moyuology.feishu.cn/wiki/PCx3wZBDLiTlBNkIx0hcIrgCn5T
-- **App Token**: `DOFAbHmqjaZXzHsCCOuck5uzn5R`
-- **Table ID**: `tbl1XsVaOVl48FQP`
+- **表格名称**: 生涯信息表
+- **App Token**: 请联系管理员获取
+- **Table ID**: 请联系管理员获取
 
 ### 写入流程
 
@@ -461,7 +460,7 @@ A: 检查以下几点：
 
 - **GitHub**: [github.com/MoyuOlogy/jobs](https://github.com/MoyuOlogy/jobs)
 - **OpenClaw**: [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
-- **生涯信息表**: [moyuology.feishu.cn/wiki/PCx3wZBDLiTlBNkIx0hcIrgCn5T](https://moyuology.feishu.cn/wiki/PCx3wZBDLiTlBNkIx0hcIrgCn5T)
+- **生涯信息表**: 请联系管理员获取访问权限
 
 ---
 
