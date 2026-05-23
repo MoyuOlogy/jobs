@@ -16,11 +16,11 @@
 - [功能特性](#功能特性)
 - [快速开始](#快速开始)
 - [技能详解](#技能详解)
-  - [fudanjobs](#复旦大学-fudanjobs)
-  - [pkujobs](#北京大学-pkujobs)
-  - [qinghuajobs](#清华大学-qinghuajobs)
-  - [zjujobs](#浙江大学-zjujobs)
-  - [sjtujobs](#上海交通大学-sjtujobs)
+  - [fudanjobs](#fudanjobs)
+  - [pkujobs](#pkujobs)
+  - [qinghuajobs](#qinghuajobs)
+  - [zjujobs](#zjujobs)
+  - [sjtujobs](#sjtujobs)
 - [输出格式](#输出格式)
 - [定时任务配置](#定时任务配置)
 - [与飞书多维表格集成](#与飞书多维表格集成)
@@ -350,7 +350,7 @@ python3 skills/sjtujobs/sjtujobs.py --today
 
 ### 敏感词过滤（重要！）
 
-**⚠️ 部分招聘信息中常含政治敏感词，可能会触发模型的内容审查，必须在写入前过滤！**
+**⚠️ 部分招聘信息中常含敏感内容，可能会触发模型的内容审查，必须在写入前过滤！**
 
 ---
 
